@@ -34,8 +34,7 @@ This sample demonstrate how to maintain a particular interval on axes while zoom
 A UWP Chart displaying data with an X-axis interval of 5 and a Y-axis interval of 20 before any zooming.
 
 After zooming, the X-axis continues to display labels with an interval of 5 because of disabling auto interval on zooming. Concurrently, the Y-axis's interval is shown dynamically adjusted to the new zoom level.
-
-[upload gif]
+![zooming](https://github.com/user-attachments/assets/ed0f7b83-67ef-402f-b9cd-01c8081f7852)
 
 ## Troubleshooting
 
