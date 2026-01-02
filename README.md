@@ -42,4 +42,4 @@ After zooming, the X-axis continues to display labels with an interval of 5 beca
 
 If you are facing a "Path too long" exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-Refer to the Knowledge Base article [How to maintain axis interval while zooming in UWP Charts]().
+Refer to the Knowledge Base article [How to maintain axis interval while zooming in UWP Charts](https://support.syncfusion.com/kb/article/12268/how-to-maintain-axis-interval-while-zooming-in-uwp-charts).
