@@ -8,14 +8,14 @@
 
   <Identity
     Name="ef90696c-2edd-4e7c-8d08-bd1c07d2265a"
-    Publisher="CN=SubashSorimuthupatta"
+    Publisher="CN=Subash"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="ef90696c-2edd-4e7c-8d08-bd1c07d2265a" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>AutoIntervalOnZooming_UWP_Chart</DisplayName>
-    <PublisherDisplayName>SubashSorimuthupatta</PublisherDisplayName>
+    <PublisherDisplayName>Subash</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
